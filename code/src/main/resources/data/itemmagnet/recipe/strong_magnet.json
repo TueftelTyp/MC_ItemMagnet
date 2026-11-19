@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "DED",
+    "AMA",
+    "DED"
+  ],
+  "key": {
+    "D": "minecraft:diamond_block",
+    "E": "minecraft:emerald_block",
+    "A": "minecraft:ancient_debris",
+    "M": "itemmagnet:mid_magnet"
+  },
+  "result": {
+    "id": "itemmagnet:strong_magnet",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "itemmagnet:mid_magnet"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "itemmagnet:strong_magnet"
+    ]
+  },
+  "sends_telemetry_event": false
+}

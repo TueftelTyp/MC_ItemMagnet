@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "unlock_right_away": {
+      "trigger": "minecraft:tick"
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipes": "itemmagnet:weak_magnet"
+      }
+    }
+  },
+  "requirements": [
+    ["unlock_right_away", "has_the_recipe"]
+  ],
+  "rewards": {
+    "recipes": ["itemmagnet:weak_magnet"]
+  },
+  "sends_telemetry_event": false
+}

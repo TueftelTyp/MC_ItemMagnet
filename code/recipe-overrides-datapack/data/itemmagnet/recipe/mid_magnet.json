@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GLG",
+    "AWA",
+    "GLG"
+  ],
+  "key": {
+    "G": "minecraft:gold_block",
+    "L": "minecraft:lapis_block",
+    "A": "minecraft:amethyst_block",
+    "W": "itemmagnet:weak_magnet"
+  },
+  "result": {
+    "id": "itemmagnet:mid_magnet",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "itemmagnet",
+  "version": "${version}",
+  "name": "ItemMagnet",
+  "description": "Three progressively craftable magnets that attract dropped items and optionally experience orbs.",
+  "authors": [
+    "TueftelTyp"
+  ],
+  "contact": {
+    "homepage": "https://github.com/TueftelTyp/MC_ItemMagnet",
+    "issues": "https://github.com/TueftelTyp/MC_ItemMagnet/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/itemmagnet/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "de.tuefteltyp.itemmagnet.ItemMagnet"
+    ],
+    "modmenu": [
+      "de.tuefteltyp.itemmagnet.ItemMagnetModMenu"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*",
+    "cloth-config": "*"
+  }
+}
