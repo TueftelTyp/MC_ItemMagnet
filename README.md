@@ -3,6 +3,8 @@
 
 **ItemMagnet** is a lightweight Minecraft Fabric mod that lets you attract dropped items and experience orbs from a distance using powerful magnets!
 
+<img src="/img/icon.png" width="10%" style="display:block; margin:auto;">
+
 ## ✨ Features
 
 - **3 Magnet Tiers:** Weak, Mid and Strong
@@ -30,6 +32,8 @@ Each tier requires the previous magnet to craft, making progression more rewardi
 2. Right-click to activate the magnet.
 3. Nearby dropped items will automatically fly towards you.
 4. Right-click again to deactivate it.
+   
+<img src="/img/usemag.gif" width="50%" style="display:block; margin:auto;">
 
 **Note:** Magnets are disabled by default. Their activation state can optionally be saved through the configuration.
 
