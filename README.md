@@ -25,6 +25,7 @@
 | Strong Magnet | 20 blocks |
 
 Each tier requires the previous magnet to craft, making progression more rewarding.
+<img src="/img/magrotate.gif" width="50%" style="display:block; margin:auto;">
 
 ## 🎮 How to Use
 
